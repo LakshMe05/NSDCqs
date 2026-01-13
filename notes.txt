@@ -9,4 +9,7 @@ DISTRIBUTED thru git
 CI: Push code frequently, automatically built and stored 
 Version control or source code management is integration and management of your application's source code
 version control 
-kilukil pambaram
+kilukil pambaram ariya manasam ariyathambili urangu vavavo
+jenkins->tools->nodejs->name vaka ppd, then v nodejs18->save and apply
+jenkins->new item->name->pipeline->names ida->repo ida->branch ida->save and apply
+scm->git->nnat aan repo
