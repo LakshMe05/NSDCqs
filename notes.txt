@@ -6,3 +6,6 @@ track code changes, collaborate w/ teams, revert to prev if req
 local version control thru revision
 central version control thru cvs, SVN, Perforce
 DISTRIBUTED thru git
+CI: Push code frequently, automatically built and stored 
+Version control or source code management is integration and management of your application's source code
+version control 
