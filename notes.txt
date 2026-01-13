@@ -1,1 +1,8 @@
 devops mahamahams
+Version control in git aan use cheyyane gooys
+nthina? karanam storage purpose in aan
+records changes to files so that you can recall specific versions later
+track code changes, collaborate w/ teams, revert to prev if req
+local version control thru revision
+central version control thru cvs, SVN, Perforce
+DISTRIBUTED thru git
