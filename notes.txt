@@ -13,3 +13,12 @@ kilukil pambaram ariya manasam ariyathambili urangu vavavo
 jenkins->tools->nodejs->name vaka ppd, then v nodejs18->save and apply
 jenkins->new item->name->pipeline->names ida->repo ida->branch ida->save and apply
 scm->git->nnat aan repo
+whenever error in build, look for version issues, directory and jenkins file location issues, package.json issues, 
+HYPERVISOR, EC2, AMI,INSTANCE, 
+dev, pack, ship, run app : container: app code, dependencies, libraries, config files
+easily shareable, load cheyth startup compared to VM is better, light weight
+consistent env
+docker follows client n server arch
+rest api based calling for dcker daemons from client : build. run, pull
+manages: container,img, network, volumes
+compose tool : multi container handling tool for  docker
