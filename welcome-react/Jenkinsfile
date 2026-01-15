@@ -3,6 +3,7 @@ pipeline {
     environment {
         IMAGE_NAME = "react-app"
         CONTAINER_NAME = "cranky_kirch"
+        PATH = "/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:${env.PATH}"
     }
 
     tools {
