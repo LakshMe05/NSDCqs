@@ -38,3 +38,5 @@ docker run -d -p 3000:3000 image-id : run img in background
 docker ps : list running containers
 docker stop container-name : stop container
 docker  run -it image-id : run interactive container
+
+kayin angane
