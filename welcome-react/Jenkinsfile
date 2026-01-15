@@ -35,8 +35,9 @@ pipeline {
         }
         stage('Build Docker Image') {
             steps {
-                // Use $IMAGE_NAME instead of %IMAGE_NAME%
-                sh 'docker build -t $IMAGE_NAME .'
+               dir('welcome-react') {
+            sh 'docker build -t $IMAGE_NAME .'
+        }
             }
         }
 
