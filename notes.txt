@@ -40,3 +40,10 @@ docker stop container-name : stop container
 docker  run -it image-id : run interactive container
 
 kayin angane
+
+aws ec2 and IAM : on demand, automation for ci/cd, scalability, monitoring and security tools kunna joseph 
+ndjoseph is gay for ndjonu n ndrafi
+
+make instance for ec2
+choose AMI, instance type, storage & networking ie vpc and subnets, assign security groups ie firewall rules, connect via ssh for linux or rdp for windows
+ec2 in devops : jenkins for ci/cd
