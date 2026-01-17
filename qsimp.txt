@@ -11,4 +11,4 @@ pull based nodel to scrape metrics from targets : True
 containerized deployment : deploy using k8s manifests, build docker image, push img to registry
 docker over VM as containers are lighter and faster : why? : container share  host os kernel
 terraform state files help track current state of deployed infra : True
-k8s supports rolling updates and rollback of app : 
+k8s supports rolling updates and rollback of app : true
